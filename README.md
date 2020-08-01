@@ -12,3 +12,6 @@
 env:
 Qt 5.14 support  and highter.
 compile on android and linux.
+
+
+15.08 ФИНАЛЬНЫЙ ВЫБОР. 
