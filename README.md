@@ -13,5 +13,18 @@ env:
 Qt 5.14 support  and highter.
 compile on android and linux.
 
+Структура проэкта:
+
+./
+├── build
+│   ├── Pipes
+│   │   └── controllerplugin
+│   └── sample_for_scene_loader
+├── Pipes                           - sources of pipes ( potentianaly should be installed )
+│   └── controllerplugin
+│       ├── src
+│       └── test
+└── sample_for_scene_loader         - main folder with sample
+
 
 15.08 ФИНАЛЬНЫЙ ВЫБОР. 
