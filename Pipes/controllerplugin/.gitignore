@@ -1,0 +1,13 @@
+*.o
+moc_*.*
+*.user
+build/
+.repo/
+*/
+Makefile
+*.so
+.qmake.stash
+qrc_res.cpp
+qrc_resources.cpp
+
+
