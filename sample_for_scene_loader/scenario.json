@@ -1,0 +1,17 @@
+{
+    "start" : "scene1",
+    "scenes" : {
+        "scene1" : {
+            "tiled_url" : "qrc:/map/sandbox.tmx",
+            "outcome" : "scene2",
+            "properties" : {
+            }
+        },
+        "scene2" : {
+            "tiled_url" : "qrc:/map/sandbox2.tmx"
+        }
+    },
+    "init_variables": {
+        "someText": "Text from scenario"
+    }
+}
